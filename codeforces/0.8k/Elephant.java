@@ -1,0 +1,15 @@
+import java.util.Scanner;
+
+public class Elephant {
+    // https://codeforces.com/problemset/problem/617/A
+    public static void main(String[] args) {
+        Scanner s = new Scanner(System.in);
+        int n = s.nextInt();
+        if (n%5>0) {
+
+        }
+        System.out.println(n%5>0?n / 5 + 1:n/5);
+        s.close();
+    }
+
+}

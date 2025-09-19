@@ -1,0 +1,66 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "q3bigPrimeFact",
+      "request": "launch",
+      "mainClass": "q3bigPrimeFact",
+      "projectName": "hackerrank eular_263772fe"
+    },
+    {
+      "type": "java",
+      "name": "q2fibonacci",
+      "request": "launch",
+      "mainClass": "q2fibonacci",
+      "projectName": "hackerrank eular_263772fe"
+    },
+    {
+      "type": "java",
+      "name": "q3bigPrimeFact",
+      "request": "launch",
+      "mainClass": "q3bigPrimeFact",
+      "projectName": "hackerrank eular_1c8ca78b"
+    },
+    {
+      "type": "java",
+      "name": "q2fib",
+      "request": "launch",
+      "mainClass": "q2fib",
+      "projectName": "hackerrank eular_1c8ca78b"
+    },
+    {
+      "type": "java",
+      "name": "q2fibonacci",
+      "request": "launch",
+      "mainClass": "q2fibonacci",
+      "projectName": "hackerrank eular_1c8ca78b"
+    },
+    {
+      "type": "java",
+      "name": "q2map",
+      "request": "launch",
+      "mainClass": "q2map",
+      "projectName": "hackerrank eular_1c8ca78b"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/spate_zejihza/Videos/hackerrank eular",
+      "program": "c:/Users/spate_zejihza/Videos/hackerrank eular/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "af",
+      "request": "launch",
+      "mainClass": "sorting.af",
+      "projectName": "GFG160_8a559f1b"
+    },
+    {
+      "type": "java",
+      "name": "FindHIndex2",
+      "request": "launch",
+      "mainClass": "string.FindHIndex2",
+      "projectName": "GFG160_8a559f1b"
+    },
+    {
+      "type": "java",
+      "name": "FindHIndex",
+      "request": "launch",
+      "mainClass": "string.FindHIndex",
+      "projectName": "GFG160_8a559f1b"
+    },
+    {
+      "type": "java",
+      "name": "seatArrange",
+      "request": "launch",
+      "mainClass": "seatArrange",
+      "projectName": "GFG160_8a559f1b"
+    },
+    {
+      "type": "java",
+      "name": "seat",
+      "request": "launch",
+      "mainClass": "seat",
+      "projectName": "GFG160_8a559f1b"
+    },
+    {
+      "type": "java",
+      "name": "FirstNonRepeatingCharacter",
+      "request": "launch",
+      "mainClass": "FirstNonRepeatingCharacter",
+      "projectName": "GFG160_8a559f1b"
+    },
+    {
+      "type": "java",
+      "name": "NonRepeatingCharacter",
+      "request": "launch",
+      "mainClass": "string.NonRepeatingCharacter",
+      "projectName": "GFG160_8a559f1b"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/GFG160/codevita",
+      "program": "c:/GFG160/codevita/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
