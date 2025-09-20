@@ -11,3 +11,16 @@
 # Ignore OS files
 .DS_Store
 Thumbs.db
+
+#Ignore batch file
+.bat
+
+# Ignore build directories
+/bin/
+/build/
+/out/
+
+# Ignore IDE files
+*.iml
+.idea/
+.vscode/
