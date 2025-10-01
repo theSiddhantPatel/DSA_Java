@@ -4,9 +4,11 @@
 # Ignore log files
 *.log
 
+
 # Ignore temporary files
 *.tmp
 *.swp
+
 
 # Ignore OS files
 .DS_Store
@@ -24,3 +26,6 @@ Thumbs.db
 *.iml
 .idea/
 .vscode/
+
+
+.txt
