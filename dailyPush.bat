@@ -10,7 +10,7 @@ git add .
 :: Commit with date and time
 for /f "tokens=1-4 delims=/ " %%a in ("%date%") do (
     for /f "tokens=1-2 delims=: " %%i in ("%time%") do (
-        set commitMsg=Daily update %%d-%%b-%%c %%i:%%j
+        set commitMsg=Updated on %%d-%%b-%%c %%i:%%j
     )
 )
 git commit -m "%commitMsg%"
