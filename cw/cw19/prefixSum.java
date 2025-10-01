@@ -1,4 +1,4 @@
-package cw19DSAArrPrefixSum;
+package cw19;
 
 public class prefixSum {
     static void makePrefixSum(int arr[]) {
